@@ -5,8 +5,8 @@
 
 %% Variables
 % Machine/user variables
-ieeg_pw_file = 'C:\Users\cbran\Documents\MATLAB\stability\cbr_ieeglogin.bin'; % directory of password file created by IEEGSession.createPwdFile
-ieeg_user = 'CBrandon22';
+ieeg_pw_file = 'C:\Users\usr\Documents\MATLAB\stability\usr_ieeglogin.bin'; % directory of password file created by IEEGSession.createPwdFile
+ieeg_user = 'USERNAME';
 data_dir = 'D:\Libraries\Documents\Richardson Lab\Stability\data'; % save location for downloaded data
 
 % Session variables
